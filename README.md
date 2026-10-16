@@ -8,7 +8,7 @@
 
 <sup>†</sup> Equal contribution (co-first authors).
 
-**ZERO-SHOT / GENERALIZATION / ACROSS DIVERSE SCENES**
+<strong>ZERO-SHOT<br>GENERALIZATION<br>ACROSS DIVERSE SCENES</strong>
 
 Training code and paper figures for a two-branch depth completion network.
 
