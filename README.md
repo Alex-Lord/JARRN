@@ -1,8 +1,6 @@
 <div align="center">
 
-# JARRN
-
-### Joint Absolute-Relative Relation Network for Robust Depth Completion
+# JARRN: Joint Absolute-Relative Relation Network for Robust Depth Completion
 
 <h2>IEEE TCSVT 2026</h2>
 
