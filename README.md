@@ -8,6 +8,8 @@
 
 <sup>†</sup> Equal contribution (co-first authors).
 
+RGB + sparse depth → dense depth · **ACROSS DIVERSE SCENES**
+
 Training code and paper figures for a two-branch depth completion network.
 
 [Abstract](#abstract) · [Architecture](#architecture) · [Model weights](#model-weights) · [Training](#training)
