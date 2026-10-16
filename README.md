@@ -4,13 +4,17 @@
 
 ### Joint Absolute-Relative Relation Network for Robust Depth Completion
 
-**Bingyuan Chen · Ruizhe Zhang · Meng Yang · Nanning Zheng**
+**Bingyuan Chen** ([**@Alex-Lord**](https://github.com/Alex-Lord)) · **Ruizhe Zhang** ([**@zddd618**](https://github.com/zddd618)) · **Meng Yang** · **Nanning Zheng**
 
-RGB + sparse depth → dense depth across diverse scenes
+Training code and paper figures for a two-branch depth completion network.
 
-[Abstract](#abstract) · [Architecture](#architecture) · [Results](#qualitative-results) · [Model weights](#model-weights) · [Training](#training)
+[Abstract](#abstract) · [Architecture](#architecture) · [Model weights](#model-weights) · [Training](#training)
 
 </div>
+
+<p align="center">
+  <img src="assets/qualitative.png" alt="JARRN depth predictions and error maps compared with other methods on indoor and outdoor scenes" width="100%">
+</p>
 
 ---
 
@@ -29,14 +33,6 @@ The visual branch uses RGB and sparse depth to predict $D_v$. The refine branch 
 $$
 \hat D = P \odot (S \odot D_v + F) + (1-P) \odot D_v.
 $$
-
-## Qualitative results
-
-<p align="center">
-  <img src="assets/qualitative.png" alt="JARRN depth predictions and error maps compared with other methods on indoor and outdoor scenes" width="100%">
-</p>
-
-Predicted depth maps and error maps across indoor and outdoor scenes. The **Ours** row shows JARRN.
 
 <details>
 <summary><b>Explore the learned refinement maps</b></summary>
