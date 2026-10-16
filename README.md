@@ -8,7 +8,7 @@
 
 <strong><sup>†</sup> Equal contribution (co-first authors).</strong>
 
-<strong>ROBUST<br>ZERO-SHOT<br>GENERALIZATION<br>ACROSS DIVERSE SCENES</strong>
+<strong>ROBUST<br>ZERO-SHOT<br>GENERALIZATION<br>ACROSS SCENES</strong>
 
 [Abstract](#abstract) · [Architecture](#architecture) · [Model weights](#model-weights) · [Training](#training)
 
