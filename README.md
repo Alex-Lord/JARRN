@@ -6,7 +6,7 @@
 
 **Bingyuan Chen**<sup>†</sup> ([**@Alex-Lord**](https://github.com/Alex-Lord)) · **Ruizhe Zhang**<sup>†</sup> ([**@zddd618**](https://github.com/zddd618)) · **Meng Yang** · **Nanning Zheng**
 
-<sup>†</sup> Equal contribution (co-first authors).
+<strong><sup>†</sup> Equal contribution (co-first authors).</strong>
 
 <strong>ROBUST<br>ZERO-SHOT<br>GENERALIZATION<br>ACROSS DIVERSE SCENES</strong>
 
