@@ -8,7 +8,7 @@
 
 <sup>†</sup> Equal contribution (co-first authors).
 
-RGB + sparse depth → dense depth · **ACROSS DIVERSE SCENES**
+**ZERO-SHOT / GENERALIZATION / ACROSS DIVERSE SCENES**
 
 Training code and paper figures for a two-branch depth completion network.
 
