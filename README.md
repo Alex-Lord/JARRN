@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/qualitative.png" alt="JARRN depth predictions and error maps compared with other methods on indoor and outdoor scenes" width="100%">
+  <img src="assets/qualitative_highlights.png" alt="Representative input, TestPrompt DC, JARRN and ground-truth rows across six datasets" width="100%">
 </p>
 
 ---
