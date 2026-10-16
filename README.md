@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/qualitative_highlights.png" alt="Representative input, TestPrompt DC, JARRN and ground-truth rows across six datasets" width="100%">
+  <img src="assets/qualitative_highlights.png" alt="Input, JARRN and ground-truth depth results across six datasets" width="100%">
 </p>
 
 ---
