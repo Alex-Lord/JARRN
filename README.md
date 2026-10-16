@@ -10,8 +10,6 @@
 
 <strong>ROBUST<br>ZERO-SHOT<br>GENERALIZATION<br>ACROSS DIVERSE SCENES</strong>
 
-Training code and paper figures for a two-branch depth completion network.
-
 [Abstract](#abstract) · [Architecture](#architecture) · [Model weights](#model-weights) · [Training](#training)
 
 </div>
