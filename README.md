@@ -4,7 +4,9 @@
 
 ### Joint Absolute-Relative Relation Network for Robust Depth Completion
 
-**Bingyuan Chen** ([**@Alex-Lord**](https://github.com/Alex-Lord)) · **Ruizhe Zhang** ([**@zddd618**](https://github.com/zddd618)) · **Meng Yang** · **Nanning Zheng**
+**Bingyuan Chen**<sup>†</sup> ([**@Alex-Lord**](https://github.com/Alex-Lord)) · **Ruizhe Zhang**<sup>†</sup> ([**@zddd618**](https://github.com/zddd618)) · **Meng Yang** · **Nanning Zheng**
+
+<sup>†</sup> Equal contribution (co-first authors).
 
 Training code and paper figures for a two-branch depth completion network.
 
