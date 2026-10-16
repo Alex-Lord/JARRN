@@ -2,7 +2,7 @@
 
 # JARRN: Joint Absolute-Relative Relation Network for Robust Depth Completion
 
-<h2>IEEE TCSVT 2026</h2>
+<h2>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2026</h2>
 
 **Bingyuan Chen**<sup>†</sup> ([**@Alex-Lord**](https://github.com/Alex-Lord)) · **Ruizhe Zhang**<sup>†</sup> ([**@zddd618**](https://github.com/zddd618)) · **Meng Yang** · **Nanning Zheng**
 
