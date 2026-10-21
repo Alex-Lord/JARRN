@@ -4,7 +4,7 @@
 
 <h2>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2026</h2>
 
-**Bingyuan Chen**<sup>†</sup> ([**@Alex-Lord**](https://github.com/Alex-Lord)) · **Ruizhe Zhang**<sup>†</sup> ([**@zddd618**](https://github.com/zddd618)) · **Meng Yang** · **Nanning Zheng**
+**Bingyuan Chen**<sup>†</sup> ([**@Alex-Lord**](https://github.com/Alex-Lord)) · **Ruizhe Zhang**<sup>†</sup> ([**@zddd618**](https://github.com/zddd618)) · **Lingzhi Pan** ([**@Lingzhi-Pan**](https://github.com/Lingzhi-Pan)) · **Meng Yang** · **Nanning Zheng**
 
 <strong><sup>†</sup> Equal contribution (co-first authors).</strong>
 
